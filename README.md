@@ -4,13 +4,13 @@ Toronto is expensive. Where should I look to find the best deals?
 
 Motivated by this question, I found some data to perform an analysis.
 
-The housing data is pulled from Zoocasa (2022 data)
+The housing data is pulled from Zoocasa (2024 data)
 
 Nieghbourhood data is downloaded from City of Toronto Open Data portal.
 
 Transit data taken from Metrolinx.
 
-Crime data available from Toronto Police Open Data portal.
+Crime data available from Toronto Police Open Data portal (2022).
 
 The analysis is done in the jupyter notebook, which outputs some nice maps like this:
 
