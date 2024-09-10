@@ -8,10 +8,10 @@ app.layout = html.Div([
     html.Div([
         dcc.Dropdown(
                         options=[
-                        {'label':'Price', "value": 'C:/Users/stdon/Documents/Toronto-housing-price-prediction/opendata_neighbourhoods/price_map.html'},
-                        {'label':'Crime', "value": 'C:/Users/stdon/Documents/Toronto-housing-price-prediction/Major_Crime_Indicators_Open_Data/crime_map.html'},
+                        {'label':'Price', "value": './opendata_neighbourhoods/price_map.html'},
+                        {'label':'Crime', "value": './opendata_neighbourhoods/crime_map.html'},
                         ], 
-                        value='C:/Users/stdon/Documents/Toronto-housing-price-prediction/opendata_neighbourhoods/price_map.html',
+                        value='./opendata_neighbourhoods/price_map.html',
                         id='selection'
                         )
 
